@@ -7,11 +7,11 @@ Script works ONLY with Python 3.6 or higher.
 # How to install and use this tool?
 First, you need to run few commands in your command prompt:
            
-pip3 install ip2geotools time
+pip3 install ip2geotools
            
 OR
        
-pip install ip2geotools time
+pip install ip2geotools
            
 then run:
 git clone https://github.com/mr-exo/geoip-lookup.git
