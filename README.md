@@ -14,7 +14,7 @@ OR
 pip install ip2geotools os sys time
            
 then run:
-git clone https://github.com/mr-exo/geoip-lookup/blob/main/geoip/geoip_lookup
+git clone https://github.com/mr-exo/geoip-lookup.git
            
 After these 2 steps, go to geoip directory, and type:
         
