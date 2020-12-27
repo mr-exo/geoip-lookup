@@ -11,7 +11,7 @@ pip3 install ip2geotools os sys time
            
 OR
        
-pip install ip2geotools os sys time
+pip install ip2geotools time
            
 then run:
 git clone https://github.com/mr-exo/geoip-lookup.git
