@@ -6,8 +6,10 @@ Script works ONLY with Python 3.6 or higher.
 
 # How to install and use this tool?
 First, you need to run few commands in your command prompt:
+           
 pip3 install ip2geotools os sys time
+           
 pip install ip2geotools os sys time
-
+           
 then run:
 git clone
