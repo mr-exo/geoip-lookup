@@ -9,7 +9,19 @@ First, you need to run few commands in your command prompt:
            
 pip3 install ip2geotools os sys time
            
+OR
+       
 pip install ip2geotools os sys time
            
 then run:
-git clone
+git clone https://github.com/mr-exo/geoip-lookup/blob/main/geoip/geoip_lookup
+           
+After these 2 steps, go to geoip directory, and type:
+        
+python3 geoip-lookup.py geoip -h
+           
+# Contact
+hmu on discord:
+        
+Discord: Exo#0101
+Discord Server: https://discord.gg/6PemAuJntx
